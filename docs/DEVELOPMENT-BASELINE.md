@@ -68,7 +68,7 @@ Az audit statikus forrásvizsgálat és képletszámítás volt. EVM-futtatási 
 ## Ellenőrzési napló
 
 - Dokumentáció létrehozva.
-- Szerződés implementálva: nem.
-- Build / EVM-tesztek futtatva: nem.
+- Izolált ContributionLedger prototípus implementálva ezen az ágon; teljes PIECore még nincs.
+- Solidity 0.8.20 fordítás és 9 helyi EVM-teszt sikeres (2026-10-12); részletek: [CORE-LEDGER-DRAFT.md](CORE-LEDGER-DRAFT.md).
 - CI sikeres: még nincs.
 - Telepítés vagy migráció: nem.
