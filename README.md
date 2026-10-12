@@ -4,7 +4,9 @@ A GFLO Sovereign javítási és fejlesztési munkáinak központi repója.
 
 ## Állapot
 
-**Előkészítés / specifikáció.** Ebben a repóban jelenleg nincs implementált, tesztelt vagy telepített szerződés. A v0.1 a fejlesztési cél neve, nem kész kiadás.
+**Fejlesztési prototípus, review alatt.** Ezen az ágon a ContributionLedger elszámolási modul és kilenc helyi EVM-teszt szerepel. A teljes PIECore még nincs kész; nyilvános hálózati telepítés nem történt. A v0.1 fejlesztési cél, nem kész kiadás.
+
+A [modul határai és teszteredményei](docs/CORE-LEDGER-DRAFT.md) külön dokumentáltak.
 
 Első cél: egy ellenőrizhető hozzájárulási folyamat, amelyben a felhasználó nem adhat magának tetszőleges XP-t, és ugyanaz a hozzájárulás nem jutalmazható kétszer.
 
